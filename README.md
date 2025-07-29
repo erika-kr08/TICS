@@ -1,2 +1,2 @@
-# TICS
-practica de TICS para sitio web y bot 
+# Pagina_hardware 
+Pagina para recomendar los diferentes tipos de hardware 
